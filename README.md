@@ -1,2 +1,2 @@
-# styleguide-and-css-standards
+# Styleguide-and-CSS-Standards
 best practices and coding standards
