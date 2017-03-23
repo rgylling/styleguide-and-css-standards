@@ -6,7 +6,7 @@ Table of contents
 =================
 
   * [Introduction](#gh-md-toc)
-   *[Resources]
+   * [Resources](#gh-md-toc)
   * [Table of contents](#table-of-contents)
   * [Installation](#installation)
   * [Usage](#usage)
