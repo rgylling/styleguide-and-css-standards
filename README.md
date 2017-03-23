@@ -60,6 +60,8 @@ Bootstrap
 ============
 All components should be built without widths and heights. This means that we can let the grid provide the layout and the component can be reused throughout the site in different areas without breaking. The grid system should be separated from all components. The grid is only used for layout. For example:
 
+##Grid
+
 
 **Bad**
 
