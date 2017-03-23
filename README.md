@@ -6,7 +6,7 @@ Table of contents
 =================
 
   * [Introduction](#gh-md-toc)
-    * [Goals](#overview)
+    * [Goals](#installation)
     * [Resources](#multiple-files)
   * [Table of contents](#table-of-contents)
   * [Installation](#installation)
@@ -61,3 +61,7 @@ A “rule declaration” is the name given to a selector (or a group of selector
   // ...
 }
 ```
+
+
+Installation
+============
