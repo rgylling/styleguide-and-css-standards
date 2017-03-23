@@ -5,7 +5,8 @@ best practices and coding standards
 Table of contents
 =================
 
-  * [gh-md-toc](#gh-md-toc)
+  * [Introduction](#gh-md-toc)
+   *[Resources]
   * [Table of contents](#table-of-contents)
   * [Installation](#installation)
   * [Usage](#usage)
