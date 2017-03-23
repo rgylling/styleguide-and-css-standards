@@ -65,7 +65,7 @@ All components should be built without widths and heights. This means that we ca
 
 ```html
 <div class="col-lg-12 some-class">
- *content *
+ _content_
 </div>
 ```
 
@@ -74,7 +74,7 @@ All components should be built without widths and heights. This means that we ca
 ```html
 <div class="col-lg-12">
  <div class="some-class">
-  *content *
+  *content*
  </div>
 </div>
 ```
