@@ -63,31 +63,20 @@ All components should be built without widths and heights. This means that we ca
 
 **Bad**
 
-```css
-.avatar{
-    border-radius:50%;
-    border:2px solid white; }
-.no, .nope, .not_good {
-    // ...
-}
-#lol-no {
-  // ...
-}
+```html
+<div class="col-lg-12 some-class">
+ *content *
+</div>
 ```
 
 **Good**
 
-```css
-.avatar {
-  border-radius: 50%;
-  border: 2px solid white;
-}
-
-.one,
-.selector,
-.per-line {
-  // ...
-}
+```html
+<div class="col-lg-12">
+ <div class="some-class">
+  *content *
+ </div>
+</div>
 ```
 
 Installation
