@@ -62,6 +62,16 @@ Bootstrap
 ### Grid
 Bootstrap’s grid system uses a series of containers, rows, and columns to layout and align content.
 
+```html
+<div class="container">
+<div class="row">
+  <div class="col-lg-12 some-class">
+   ...
+  </div>
+ </div>
+</div>
+```
+
 **Container**
 
 **Row**
