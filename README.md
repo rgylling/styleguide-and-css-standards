@@ -31,3 +31,33 @@ A “rule declaration” is the name given to a selector (or a group of selector
   line-height: 1.2;
 }
 ```
+
+
+**Bad**
+
+```css
+.avatar{
+    border-radius:50%;
+    border:2px solid white; }
+.no, .nope, .not_good {
+    // ...
+}
+#lol-no {
+  // ...
+}
+```
+
+**Good**
+
+```css
+.avatar {
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.one,
+.selector,
+.per-line {
+  // ...
+}
+```
