@@ -12,7 +12,7 @@ Table of contents
   * [Installation](#installation)
 
   
-  ##  <a id="overview"></a> Terminology
+
 
 ### Rule declaration
 
