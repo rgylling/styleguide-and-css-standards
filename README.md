@@ -9,6 +9,7 @@ Table of contents
     * [Goals](#installation)
     * [Resources](#multiple-files)
   * [Table of contents](#table-of-contents)
+  * [Bootstrap](#bootstrap)
   * [Installation](#installation)
 
   
@@ -55,6 +56,8 @@ A “rule declaration” is the name given to a selector (or a group of selector
 }
 ```
 
+Bootstrap
+============
 
 Installation
 ============
