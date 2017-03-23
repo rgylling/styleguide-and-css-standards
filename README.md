@@ -6,7 +6,7 @@ Table of contents
 =================
 
   * [Introduction](#gh-md-toc)
-    * [Goals](#multiple-files)
+    * [Goals](#overview)
     * [Resources](#multiple-files)
   * [Table of contents](#table-of-contents)
   * [Installation](#installation)
@@ -19,8 +19,8 @@ Table of contents
   * [Tests](#tests)
   * [Dependency](#dependency)
   
-  ## Terminology
-<a id="dependency"></a>
+  ##  <a id="overview"></a> Terminology
+
 ### Rule declaration
 
 A “rule declaration” is the name given to a selector (or a group of selectors) with an accompanying group of properties. Here's an example:
