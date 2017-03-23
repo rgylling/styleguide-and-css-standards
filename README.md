@@ -58,6 +58,37 @@ A “rule declaration” is the name given to a selector (or a group of selector
 
 Bootstrap
 ============
+All components should be built without widths and heights. This means that we can let the grid provide the layout and the component can be reused throughout the site in different areas without breaking. The grid system should be separated from all components. The grid is only used for layout. For example:
+
+
+**Bad**
+
+```css
+.avatar{
+    border-radius:50%;
+    border:2px solid white; }
+.no, .nope, .not_good {
+    // ...
+}
+#lol-no {
+  // ...
+}
+```
+
+**Good**
+
+```css
+.avatar {
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.one,
+.selector,
+.per-line {
+  // ...
+}
+```
 
 Installation
 ============
