@@ -71,7 +71,7 @@ Bootstrap’s grid system uses a series of containers, rows, and columns to layo
  </div>
 </div>
 ```
-Without going into terrible detail, if you want to read more about bootstraps containers, rows, and columns or want to learn about pulls and pushes visit:
+Rows should always be in containers and columns should always be within rows due to bootstrap using negative margins. This will cause unexpected layout issues if you do not follow this pattern. Without going into terrible detail, if you want to read more about bootstraps containers, rows, and columns or want to learn about pulls and pushes visit:
 
 http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works
 
