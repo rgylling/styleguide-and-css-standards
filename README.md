@@ -19,6 +19,7 @@ Table of contents
     * [Titling](#multiple-files)
     * [Commenting](#multiple-files)
   * [SASS Guidelines](#installation)
+  * [React Guidelines](#installation)
   * [Resources](#multiple-files)
   
 File Structure
