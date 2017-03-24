@@ -9,10 +9,10 @@ Table of contents
     * [Goals](#installation)
     * [Resources](#multiple-files)
   * [Table of contents](#table-of-contents)
+  * [File Structure](#installation)
   * [Bootstrap](#bootstrap)
     * [Grid](#installation)
     * [Components within grid](#multiple-files)
-  * [File Structure](#installation)
   * [CSS Guidelines](#installation)
     * [Syntax and Formatting](#multiple-files)
     * [Naming Conventions](#multiple-files)
@@ -21,6 +21,8 @@ Table of contents
   * [SASS Guidelines](#installation)
     * [Resources](#multiple-files)
   * [Installation](#installation)
+File Structure
+============
 
 Bootstrap
 ============
