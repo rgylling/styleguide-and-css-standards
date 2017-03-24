@@ -71,5 +71,13 @@ All components should be built without widths and heights. This means that we ca
 CSS
 ============
 
+### Titling
+
+```css
+/*------------------------------------*\
+  #SECTION-TITLE
+\*------------------------------------*/
+```
+
 SASS
 ============
