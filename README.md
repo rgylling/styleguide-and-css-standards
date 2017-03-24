@@ -11,7 +11,10 @@ Table of contents
   * [Table of contents](#table-of-contents)
   * [Bootstrap](#bootstrap)
   * [File Structure](#installation)
-  * [CSS Class Naming Convention](#installation)
+  * [CSS Guidelines](#installation)
+    * [Resources](#multiple-files)
+  * [SASS Guidelines](#installation)
+    * [Resources](#multiple-files)
   * [Installation](#installation)
 
   
