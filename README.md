@@ -72,7 +72,9 @@ Bootstrap’s grid system uses a series of containers, rows, and columns to layo
 </div>
 ```
 Without going into terrible detail about Bootstrap, if you want to read more about how containers row and columns work or to learn about pulls and pushes visit:
+
 http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works
+
 http://getbootstrap.com/
 
 
