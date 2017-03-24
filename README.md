@@ -63,20 +63,15 @@ Bootstrap
 Bootstrap’s grid system uses a series of containers, rows, and columns to layout and align content.
 
 ```html
-<div class="container">    <!---Rows must always be in a container-->
+<div class="container">    
  <div class="row">         <!---Rows must always be in a container-->
-  <div class="col-lg-12">  <!---Rows must always be in a container-->
+  <div class="col-lg-12 col-md-6 col-sm-12">  <!---Columns must always be in a row-->
    ...
   </div>
  </div>
 </div>
 ```
 
-**Container**
-
-**Row**
-
-**Columns**
 
 All components should be built without widths and heights. This means that we can let the grid provide the layout and the component can be reused throughout the site in different areas without breaking. The grid system should be separated from all components. The grid is only used for layout. For example:
 
