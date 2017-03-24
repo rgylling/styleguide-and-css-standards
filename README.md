@@ -64,7 +64,7 @@ Bootstrap’s grid system uses a series of containers, rows, and columns to layo
 
 ```html
 <div class="container">    
- <div class="row">         <!---Rows must always be in a container-->
+ <div class="row">                            <!---Rows must always be in a container-->
   <div class="col-lg-12 col-md-6 col-sm-12">  <!---Columns must always be in a row-->
    ...
   </div>
