@@ -20,7 +20,6 @@ Table of contents
     * [Commenting](#multiple-files)
   * [SASS Guidelines](#installation)
   * [Resources](#multiple-files)
-  * [Installation](#installation)
   
 File Structure
 ============
