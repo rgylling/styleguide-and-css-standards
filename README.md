@@ -7,8 +7,9 @@ Table of contents
 
   * [Introduction](#gh-md-toc)
     * [Goals](#installation)
-    * [Resources](#multiple-files)
+    * [Resources](#multiple-files) 
   * [Table of contents](#table-of-contents)
+  * [Commonly used frameworks and libraries](#table-of-contents)
   * [File Structure](#installation)
   * [Bootstrap](#bootstrap)
     * [Grid](#installation)
