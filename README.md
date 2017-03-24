@@ -7,7 +7,6 @@ Table of contents
 
   * [Introduction](#gh-md-toc)
     * [Goals](#installation)
-    * [Resources](#multiple-files) 
   * [Table of contents](#table-of-contents)
   * [Commonly used frameworks and libraries](#table-of-contents)
   * [File Structure](#installation)
@@ -20,7 +19,7 @@ Table of contents
     * [Titling](#multiple-files)
     * [Commenting](#multiple-files)
   * [SASS Guidelines](#installation)
-    * [Resources](#multiple-files)
+  * [Resources](#multiple-files)
   * [Installation](#installation)
   
 File Structure
