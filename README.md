@@ -22,6 +22,7 @@ Table of contents
   * [SASS Guidelines](#installation)
     * [Resources](#multiple-files)
   * [Installation](#installation)
+  
 File Structure
 ============
 
