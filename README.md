@@ -13,6 +13,7 @@ Table of contents
   * [File Structure](#installation)
   * [CSS Guidelines](#installation)
     * [Syntax and Formatting](#multiple-files)
+    * [Titling](#multiple-files)
     * [Commenting](#multiple-files)
     * [Naming Conventions](#multiple-files)
   * [SASS Guidelines](#installation)
