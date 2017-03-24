@@ -71,6 +71,8 @@ All components should be built without widths and heights. This means that we ca
 CSS
 ============
 
+Begin every new major section of a CSS project with a title:
+
 ### Titling
 
 ```css
