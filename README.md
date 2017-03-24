@@ -10,6 +10,8 @@ Table of contents
     * [Resources](#multiple-files)
   * [Table of contents](#table-of-contents)
   * [Bootstrap](#bootstrap)
+    * [Grid](#installation)
+    * [Components with grid](#multiple-files)
   * [File Structure](#installation)
   * [CSS Guidelines](#installation)
     * [Syntax and Formatting](#multiple-files)
