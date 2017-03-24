@@ -10,6 +10,8 @@ Table of contents
     * [Resources](#multiple-files)
   * [Table of contents](#table-of-contents)
   * [Bootstrap](#bootstrap)
+  * [File Structure](#installation)
+  * [CSS Class Naming Convention](#installation)
   * [Installation](#installation)
 
   
