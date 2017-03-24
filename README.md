@@ -71,7 +71,8 @@ Bootstrap’s grid system uses a series of containers, rows, and columns to layo
  </div>
 </div>
 ```
-Without going into terrible detail about Bootstrap, if you want to read more about how containers row and columns work or to learn about pulls and pushes [http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works]
+Without going into terrible detail about Bootstrap, if you want to read more about how containers row and columns work or to learn about pulls and pushes
+http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works
 
 
 All components should be built without widths and heights. This means that we can let the grid provide the layout and the component can be reused throughout the site in different areas without breaking. The grid system should be separated from all components. The grid is only used for layout. For example:
