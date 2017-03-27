@@ -25,8 +25,12 @@ Table of contents
 Common frameworks and libraries
 ============
 
+...
+
 File Structure
 ============
+
+...
 
 Bootstrap
 ============
