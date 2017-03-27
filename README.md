@@ -79,8 +79,6 @@ All components should be built without widths and heights. This means that we ca
 CSS
 ============
 
-Begin every new major section of a CSS project with a title:
-
 ### Titling
 
 Each section should have a corresponding section title which is prefixed with a hash (#) symbol to make searching for a specific section easier. This practice also goes for file seperated sections where the section title would be at the top of each section file.
