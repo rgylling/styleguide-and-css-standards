@@ -81,7 +81,7 @@ CSS
 
 ### !important
 
-Each section should have a corresponding section title which is prefixed with a hash (#) symbol to make searching for a specific section easier. This practice also goes for file seperated sections where the section title would be at the top of each section file.
+We generally try to stay away from using !important due to specificity issues. However there will be times when !important is needed for quick fixes. When this is the case we should always put our !importants in the shame.scss file (see shame.css). All use of !important should be well documented and eventually refactored when time permits.
 
 ### Titling
 
