@@ -22,6 +22,9 @@ Table of contents
   * [React Guidelines](#installation)
   * [Resources](#multiple-files)
   
+Common frameworks and libraries
+============
+
 File Structure
 ============
 
