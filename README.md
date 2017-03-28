@@ -19,6 +19,10 @@ Table of contents
     * [Titling](#multiple-files)
     * [Commenting](#multiple-files)
   * [SASS Guidelines](#installation)
+     * [Syntax and Formatting](#multiple-files)
+    * [Naming Conventions](#multiple-files)
+    * [Titling](#multiple-files)
+    * [Commenting](#multiple-files)
   * [React Guidelines](#installation)
   * [Resources](#multiple-files)
   
