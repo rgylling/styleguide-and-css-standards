@@ -128,7 +128,7 @@ $browser-context: 16;
 **Color Theme Generator**
 
 ```css
-/*Map your colors*/
+
 $ui-colors: (
 key       : value,
 default   : color,
@@ -138,10 +138,12 @@ warning   : color,
 info      : color
 );
 
-@each $theme, $color in $ui-colors {
-  .btn--#{$theme} {
-    background-color: $color;
-  }
+@mixin bg-colors($map) {
+ @each $theme, $color in $map {
+   $--#{$theme} {
+     background-color: $color;
+   }
+ }
 }
 ```
 
