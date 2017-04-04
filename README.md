@@ -108,6 +108,8 @@ SASS
 ### Mixins
 
 **Px to Em**
+
+```
 //un-modified
 
 @function calc-em($target-px, $context) {
@@ -121,6 +123,8 @@ $browser-context: 16;
 @function em($pixels, $context: $browser-context) {
   @return ($pixels / $context) * 1em;
 }
+
+```
 ...
 
 React
