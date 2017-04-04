@@ -110,13 +110,13 @@ SASS
 **Px to Em**
 
 ```css
-//un-modified
+/*un-modified*/
 
 @function calc-em($target-px, $context) {
   @return ($target-px / $context) * 1em;
 }
 
-// and modified to accept a base context variable
+/*and modified to accept a base context variable*/
 
 $browser-context: 16;
 
