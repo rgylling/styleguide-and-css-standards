@@ -130,12 +130,12 @@ $browser-context: 16;
 ```css
 /*Map your colors*/
 $ui-colors: (
-key     : value,
-default : color,
-success : color,
-error   : color,
-warning : color,
-info    : color,
+key       : value,
+default   : color,
+success   : color,
+error     : color,
+warning   : color,
+info      : color
 );
 
 @each $theme, $color in $ui-colors {
