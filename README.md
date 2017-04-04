@@ -109,7 +109,7 @@ SASS
 
 **Px to Em**
 
-```
+```css
 //un-modified
 
 @function calc-em($target-px, $context) {
