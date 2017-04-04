@@ -128,7 +128,7 @@ $browser-context: 16;
 **Color Theme Generator**
 
 ```css
-//Map your colors
+/*Map your colors*/
 $ui-colors: (
 key     : value,
 default : color,
