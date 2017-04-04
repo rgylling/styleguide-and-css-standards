@@ -146,9 +146,19 @@ info      : color
  }
 }
 
-/* Example */
+/*Example*/
 .btn {
    @include bg-colors($ui-colors)
+}
+/*Outputs*/
+.btn--default {
+  background-color: #ffffff;
+}
+.btn--success {
+  background-color: #ffffff;
+}
+.btn--error {
+  background-color: #ffffff;
 }
 ```
 
