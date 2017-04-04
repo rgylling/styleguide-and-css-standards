@@ -145,6 +145,9 @@ info      : color
    }
  }
 }
+
+/* Example */
+.btn @include bg-colors($ui-colors)
 ```
 
 React
