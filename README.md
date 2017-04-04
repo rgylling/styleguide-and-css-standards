@@ -194,6 +194,7 @@ $palettes: (
 ```
 
 ```css
+/*Example*/
 h1 {
  color: palette(grey, x-dark);
 }
