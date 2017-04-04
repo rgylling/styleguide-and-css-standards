@@ -105,6 +105,7 @@ Each section should have a corresponding section title which is prefixed with a 
 SASS
 ============
 
+### Mixins
 ...
 
 React
