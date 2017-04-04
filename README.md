@@ -23,6 +23,7 @@ Table of contents
     * [Naming Conventions](#multiple-files)
     * [Titling](#multiple-files)
     * [Commenting](#multiple-files)
+    * [Common Mixins](#multiple-files)
   * [React Guidelines](#installation)
   * [Resources](#multiple-files)
   
