@@ -167,6 +167,8 @@ info      : color
 }
 ```
 
+**Color Pallet Map Retriever**
+
 React
 ============
 
