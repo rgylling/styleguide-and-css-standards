@@ -147,7 +147,9 @@ info      : color
 }
 
 /* Example */
-.btn @include bg-colors($ui-colors)
+.btn {
+   @include bg-colors($ui-colors)
+}
 ```
 
 React
