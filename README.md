@@ -129,6 +129,16 @@ $browser-context: 16;
 
 ```css
 
+@mixin bg-colors($map) {
+  @each $theme, $color in $map {
+    &--#{$theme} {
+      background-color: $color;
+    }
+  }
+}
+
+/*Example*/
+
 $ui-colors: (
 key       : value,
 default   : color,
@@ -138,15 +148,6 @@ warning   : color,
 info      : color
 );
 
-@mixin bg-colors($map) {
- @each $theme, $color in $map {
-   $--#{$theme} {
-     background-color: $color;
-   }
- }
-}
-
-/*Example*/
 .btn {
    @include bg-colors($ui-colors)
 }
