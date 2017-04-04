@@ -167,7 +167,31 @@ info      : color
 }
 ```
 
-**Color Pallet Map Retriever**
+**Color Palett Map Retriever**
+
+```css
+
+@function palette($palette, $shade: 'base') {
+  @return map-get(map-get($palettes, $palette), $shade);
+}
+
+
+$palettes: (
+  grey: (
+   xx-light : lighten(#fffeee, 43%),
+   x-light  : lighten(#fffeee, 33%),
+   light    : lighten(#fffeee, 13%),
+   base     : $grey,
+   dark     : darken(#fffeee, 8%)
+   x-dark   : darken(#fffeee, 16%)
+  ),
+  black: (
+   light    : lighten(#fffeee, 10%),
+   base     : $black,
+   dark     : darken($black, 10%)
+  )
+);
+```
 
 React
 ============
