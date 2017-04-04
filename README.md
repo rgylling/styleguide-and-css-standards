@@ -137,6 +137,10 @@ $browser-context: 16;
   }
 }
 
+```
+
+```css
+
 /*Example*/
 
 $ui-colors: (
