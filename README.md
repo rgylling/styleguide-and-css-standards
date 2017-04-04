@@ -105,7 +105,7 @@ Each section should have a corresponding section title which is prefixed with a 
 SASS
 ============
 
-### Mixins
+### Common Utility Functions
 
 **Px to Em**
 
@@ -125,7 +125,25 @@ $browser-context: 16;
 }
 
 ```
-...
+**Color Theme Generator**
+
+```
+//Map your colors
+$ui-colors: (
+key     : value,
+default : color,
+success : color,
+error   : color,
+warning : color,
+info    : color,
+);
+
+@each $theme, $color in $ui-colors {
+  .btn--#{$theme} {
+    background-color: $color;
+  }
+}
+```
 
 React
 ============
