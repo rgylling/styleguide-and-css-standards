@@ -193,6 +193,16 @@ $palettes: (
 );
 ```
 
+```css
+h1 {
+ color: palette(grey, x-dark);
+}
+
+h1 {
+ color: palette(grey, light);
+}
+```
+
 React
 ============
 
