@@ -11,6 +11,7 @@ Table of contents
   * [Commonly used frameworks and libraries](#table-of-contents)
   * [File Structure](#installation)
   * [Typography](#typography)
+    * [Styling Text](#typography)
   * [Color](#color)
   * [Bootstrap](#bootstrap)
     * [Grid](#installation)
