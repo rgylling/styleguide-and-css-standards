@@ -46,7 +46,7 @@ Typography
 ### Go To Fonts
 **Google Fonts**
 
-__Serif__
+_Serif_
 
 __Sans__
 
