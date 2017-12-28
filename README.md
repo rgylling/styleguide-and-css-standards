@@ -96,7 +96,8 @@ __Mono__
 | zebra stripes | are neat      |    $1 |
 
 
-**TypeKit Fonts**
+[TypeKit Fonts](https://typekit.com/)
+
 
 
 ### Styling Text
