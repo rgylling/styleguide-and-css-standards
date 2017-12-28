@@ -44,6 +44,8 @@ File Structure
 Typography
 ============
 ### Go To Fonts
+** Google Fonts **
+** TypeKit Fonts **
 ### Styling Text
 
 Color
