@@ -11,6 +11,7 @@ Table of contents
   * [Commonly used frameworks and libraries](#table-of-contents)
   * [File Structure](#installation)
   * [Typography](#typography)
+  * [Color](#color)
   * [Bootstrap](#bootstrap)
     * [Grid](#installation)
     * [Components within grid](#multiple-files)
@@ -39,6 +40,9 @@ File Structure
 ...
 
 Typography
+============
+
+Color
 ============
 
 Bootstrap
