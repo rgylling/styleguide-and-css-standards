@@ -45,11 +45,17 @@ Typography
 ============
 ### Go To Fonts
 **Google Fonts**
+
 __Serif__
+
 __Sans__
+
 __Slab__
+
 __Handwritten__
+
 __Mono__
+
 **TypeKit Fonts**
 ### Styling Text
 
