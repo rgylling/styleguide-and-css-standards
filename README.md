@@ -11,6 +11,7 @@ Table of contents
   * [Commonly used frameworks and libraries](#table-of-contents)
   * [File Structure](#installation)
   * [Typography](#typography)
+    * [Go To Fonts](#typography)
     * [Styling Text](#typography)
   * [Color](#color)
   * [Bootstrap](#bootstrap)
@@ -42,6 +43,8 @@ File Structure
 
 Typography
 ============
+### Go To Fonts
+### Styling Text
 
 Color
 ============
