@@ -74,6 +74,11 @@ Typography
 | Work Sans | Sans     |    9 |  NO      | ----------   | Quirky cool font.    |
 
 
+| Name          | Type          | Wts   |  Italics  | Tags   |  Notes  |
+| ------------- | ------------  | ----- |  -------- | ------ | ------- |
+| Bitter      | Slab | 2 |  YES      | Good Title   | Good title to add personality to your application without going overboard   |
+
+
 
 [TypeKit Fonts](https://typekit.com/)
 
