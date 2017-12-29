@@ -65,16 +65,15 @@ __Serif__
 
 | Name          | Type          | Wts   |  Italics  | Tags   |  Notes  |
 | ------------- | ------------  | ----- |  -------- | ------ | ------- |
-| Abril Fatface      | Serif | 1 |  NO      | Good Title   | Luxury   |
-| Cardo      | Serif      |   2 |  YES      | Good Body   | Classy serif reminiscent of old printed text    |
-| Crimson Text | Serif      |    3 |  YES      | Good Body   | Beautiful for text; heavier weights could work well for titles too    |
-| Driod Serif      | Serif | 2 |  YES      | Good Body   | Solid body serif    |
-| Libre Baskerville      | Serif      |   2 |  YES      | Good Body   | Good body	A designed-for-legibility take on Baskerville, which, fun fact, is the world's most "trustworthy" font    |
-| Lora | Serif     |    2 |  YES      | Good Body   | Another good Google Fonts serif    |
-| Merriweather      | Serif | 4 |  YES      | Workhorse Good Body and Title   | Workhorse	One of the best all-around serif typefaces on Google Fonts    |
-| Playfair Display      | Serif      |   3 |  YES      | Good Title   | Great for titles; has a unique and fancy italic style  |
-| PT Serif | Serif     |    2 |  YES      | Workhorse Good Body and Title   | Legible as body text, but has interesting letterforms; lack of weights is only downside; has a not-quite-as-amazing sans version    |
-| Vollkorn | Serif      |    4 |  YES      | test   | A favorite Google serif font. 2 weights not on Google Fonts.    |
+| Fira Sans      | Sans | 4 |  YES      | Good Title and Body   | Favorite for web apps   |
+| Karla      | Sans      |   2 |  NO      | -------   | Quirky body font    |
+| Libre Franklin | Sans      |    9 |  YES      | Workhorse. Good Title and Body. Helvetica Alternative   | Workhorse sans. Soft corners at large sizes   |
+| Montserrat      | Sans | 5 |  NO      | -------   | Close alt to proxima nova.    |
+| Nunito      | Sans      |   3 |  YES      | Rounded   | Good round font    |
+| Roboto | Sans     |    6 |  YES      | Workhorse. Good Body and Title. Helvetica Alternative   | Workhorse sans-serif    |
+| Rubik      | Sans | 5 |  YES      | Good Body and Title   | Squared off letters and round edges    |
+| Source Sans Pro      | Sans      |   6 |  YES      | Workhorse. Good Title and Body   | Good UI font. Has serif and Mono too  |
+| Work Sans | Sans     |    9 |  NO      | ----------   | Quirky cool font.    |
 
 
 
