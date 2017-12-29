@@ -87,6 +87,12 @@ Typography
 ---
 
 
+
+| Name          | Type          | Wts   |  Italics  | Tags   |  Notes  |
+| ------------- | ------------  | ----- |  -------- | ------ | ------- |
+| Permanent Marker  | Hand | 1 |  No      | Comic Sans Alt   | Great for hand writter feel without using comic sans  |
+
+
 [TypeKit Fonts](https://typekit.com/)
 
 
