@@ -59,7 +59,7 @@ Typography
 | Playfair Display      | Serif      |   3 |  YES      | Good Title   | Great for titles; has a unique and fancy italic style  |
 | PT Serif | Serif     |    2 |  YES      | Workhorse Good Body and Title   | Legible as body text, but has interesting letterforms; lack of weights is only downside; has a not-quite-as-amazing sans version    |
 | Vollkorn | Serif      |    4 |  YES      | test   | A favorite Google serif font. 2 weights not on Google Fonts.    |
-
+=================
 
 | Name          | Type          | Wts   |  Italics  | Tags   |  Notes  |
 | ------------- | ------------  | ----- |  -------- | ------ | ------- |
@@ -73,11 +73,11 @@ Typography
 | Source Sans Pro      | Sans      |   6 |  YES      | Workhorse. Good Title and Body   | Good UI font. Has serif and Mono too  |
 | Work Sans | Sans     |    9 |  NO      | ----------   | Quirky cool font.    |
 
-
+=================
 | Name          | Type          | Wts   |  Italics  | Tags   |  Notes  |
 | ------------- | ------------  | ----- |  -------- | ------ | ------- |
 | Bitter      | Slab | 2 |  YES      | Good Title   | Good title to add personality to your application without going overboard   |
-
+=================
 
 
 [TypeKit Fonts](https://typekit.com/)
