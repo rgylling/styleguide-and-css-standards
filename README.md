@@ -49,11 +49,18 @@ Typography
 __Serif__
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Name          | Type          | Wts   |  Italics  | Tags   |  Notes  |
+| ------------- | ------------  | ----- |  -------- | ------ | ------- |
+| Abril Fatface      | Serif | 1 |  NO      | Good Title   | Luxury   |
+| Cardo      | Serif      |   2 |  YES      | Good Body   | Classy serif reminiscent of old printed text    |
+| Crimson Text | Serif      |    3 |  YES      | Good Body   | Beautiful for text; heavier weights could work well for titles too    |
+| Driod Serif      | Serif | 2 |  YES      | Good Body   | Solid body serif    |
+| Libre Baskerville      | Serif      |   2 |  YES      | Good Body   | Good body	A designed-for-legibility take on Baskerville, which, fun fact, is the world's most "trustworthy" font    |
+| Lora | Serif     |    2 |  YES      | Good Body   | Another good Google Fonts serif    |
+| Merriweather      | Serif | 4 |  YES      | Workhorse Good Body and Title   | Workhorse	One of the best all-around serif typefaces on Google Fonts    |
+| Playfair Display      | Serif      |   3 |  YES      | Good Title   | Great for titles; has a unique and fancy italic style  |
+| PT Serif | Serif     |    2 |  YES      | Workhorse Good Body and Title   | Legible as body text, but has interesting letterforms; lack of weights is only downside; has a not-quite-as-amazing sans version    |
+| Vollkorn | Serif      |    4 |  YES      | test   | A favorite Google serif font. 2 weights not on Google Fonts.    |
 
 
 __Sans__
