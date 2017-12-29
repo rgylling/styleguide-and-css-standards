@@ -93,6 +93,13 @@ Typography
 | Permanent Marker  | Hand | 1 |  No      | Comic Sans Alt   | Great for hand writter feel without using comic sans  |
 
 
+---
+
+| Name          | Type          | Wts   |  Italics  | Tags   |  Notes  |
+| ------------- | ------------  | ----- |  -------- | ------ | ------- |
+| Fira Mono  | Mono | 2 |  No      | Comic Sans Alt   | Matches Fira sans but mono  |
+| Inconsolata  | Mono | 2 |  No      | Comic Sans Alt   | Go to monospace font  |
+
 [TypeKit Fonts](https://typekit.com/)
 
 
